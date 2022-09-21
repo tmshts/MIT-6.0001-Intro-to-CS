@@ -1,4 +1,4 @@
-This Problem Set from the course Introduction to Computer Science from my master degree International Information System at the University of Erlangen–Nuremberg. 
+This Problem Set from the course Introduction to Computer Science from my master degree International Information System at the University of Erlangen–Nuremberg. I took this course in 2020.
 
 In fact, this problem set was taken from MIT-6.0001-Intro-to-CS.
 
